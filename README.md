@@ -58,7 +58,7 @@ Este repositório segue o padrão Git Flow: `main` (estável), `develop` (integr
 
 ## Integrante
 
-- Anna Vitória Rocha Dias — RA: 325118421
+- Anna Vitória Rocha Dias - RA: 325118421
 - Karolyne Silva - RA: 32517941
 - Maycon De Oliveira Gomes Batista - RA: 325125878
 
